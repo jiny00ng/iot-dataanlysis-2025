@@ -271,7 +271,7 @@ sns.set_theme(font='Malgun Gothic', rc={'axes.unicode_minus': False})
     <img src="./image/ml0006.png" width="400">
 
         - y : 실제 정답(0 또는 1)
-        - $ \hat{y}$ : 예측 확률(0 ~ 1 사이)
+        - $ \hat{y} $ : 예측 확률(0 ~ 1 사이)
         
         - 정답이 1일 때 (y=1)
             - 예측이 1에 가까우면 -> 손실작음(good!)
